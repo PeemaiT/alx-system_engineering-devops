@@ -1,2 +1,2 @@
 #!/bish/bash
-BEST="School"
+BEST= "School"
